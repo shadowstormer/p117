@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+}
+#score{
+    float: left;
+    font-size: 12px;
+}
+#timer{
+    float: right;
+    font-size: 12px;
+}
+#draw{
+    color: coral;
+}
